@@ -1,0 +1,9 @@
+c:\users\batuhan\documents\visual studio 2015\Projects\Data_Bot\Data_Bot\bin\Debug\Data_Bot.exe.config
+C:\Users\Batuhan\Documents\Visual Studio 2015\Projects\Data_Bot\Data_Bot\bin\Debug\Data_Bot.exe
+C:\Users\Batuhan\Documents\Visual Studio 2015\Projects\Data_Bot\Data_Bot\bin\Debug\Data_Bot.pdb
+C:\Users\Batuhan\Documents\Visual Studio 2015\Projects\Data_Bot\Data_Bot\obj\Debug\Data_Bot.csprojResolveAssemblyReference.cache
+C:\Users\Batuhan\Documents\Visual Studio 2015\Projects\Data_Bot\Data_Bot\obj\Debug\Data_Bot.Form1.resources
+C:\Users\Batuhan\Documents\Visual Studio 2015\Projects\Data_Bot\Data_Bot\obj\Debug\Data_Bot.Properties.Resources.resources
+C:\Users\Batuhan\Documents\Visual Studio 2015\Projects\Data_Bot\Data_Bot\obj\Debug\Data_Bot.csproj.GenerateResource.Cache
+C:\Users\Batuhan\Documents\Visual Studio 2015\Projects\Data_Bot\Data_Bot\obj\Debug\Data_Bot.exe
+C:\Users\Batuhan\Documents\Visual Studio 2015\Projects\Data_Bot\Data_Bot\obj\Debug\Data_Bot.pdb
